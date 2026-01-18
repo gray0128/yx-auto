@@ -1,0 +1,7 @@
+{
+  "name": "yx-auto",
+  "compatibility_date": "2026-01-18",
+  "main": "_worker.js",
+  "compatibility_flags": [],
+  "workers_dev": true
+}
